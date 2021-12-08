@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-mount": "^4.0.0",
+    "koa-static": "^5.0.0",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-koa": "^0.0.1"
+  }
+}
